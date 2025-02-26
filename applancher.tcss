@@ -1,0 +1,21 @@
+Screen {
+    align: center middle;
+}
+
+Apps {
+    background: $boost;
+    height: 10;
+    margin: 1;
+    width: 80%;
+    layout: grid;
+    grid-size: 4 2;
+    align: center middle;
+    
+}
+
+Log {
+    margin: 1;
+    height: 50;
+    width: 100%;
+    display: none;  /* Initially hidden */
+}
